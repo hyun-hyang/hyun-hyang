@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME呟響%20JIMIN%20LIM&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME 呟響%20JIMIN%20LIM&fontSize=40)
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome&fontSize=90" />
 # This is jimin's Git!
