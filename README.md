@@ -2,9 +2,7 @@
 # This is jimin's Git!
 ### Hi there 👋
 
-![hyun-hyang's GitHub stats](https://github-readme-stats.vercel.app/api/?username=hyun-hyang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-hyang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hyun-hyang/github-readme-stats)
+![hyun-hyang's GitHub stats](https://github-readme-stats.vercel.app/api/?username=hyun-hyang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-hyang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hyun-hyang/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-hyang%2Fhit-counter&count_bg=%238351C2&title_bg=%235D4268&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
