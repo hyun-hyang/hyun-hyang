@@ -11,8 +11,8 @@
 ### Experience
 - Machine learning with python (Seoul,South Korea, Mar.2019~December.2019)
 	- Recommended programs with collaborative filtering
-	- <Implementation of movie recommendation algorithm through item-based collaborative filtering>
-	- <Musical Recommendation Program for Beginners(cold-start problem)>
+	- [Implementation of movie recommendation algorithm through item-based collaborative filtering]
+	- [Musical Recommendation Program for Beginners(cold-start problem)]
 	- Web site for musical recommendation program (html,php,javascript)
 - Parallel programming and computational speed analysis using MPI (follow-up activity- 2018 supercomputing youth camp)
 - Text mining and analysis of 'musical (Les Miserables)' number lyrics using R language
