@@ -8,6 +8,9 @@
 
  [![Personal Blog Badge](http://img.shields.io/badge/-?Blog-d14836?style=flat-square&logo=4chan&logoColor=white&link=https://www.hyun-hyang.com/)](https://www.hyun-hyang.com/)
 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jylim3060@gmail.com)](mailto:jylim3060@gmail.com)
+
+
 <!--
 **hyun-hyang/hyun-hyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
