@@ -4,7 +4,7 @@
 - Vice President of a club - [ZeroPage](https://zp-portal.org/), Chung-Ang University Software Department Academic Research Association
 
 ### Interest
-- international experience (due to study abroad in student exchange program, 2023-1)
+- international experience (due to study abroad in student exchange program, 2023-)
 - Reading & Writing
 
 <div align=center>
