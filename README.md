@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ji-Min,%20Lim's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 ### Student
 - studying at Chungang University, Bachelor of Computer Science and Engineering (Seoul,South Korea, Mar.2021~Present)
-- I organize annual event, as the Vice President of a club - [ZeroPage](https://zp-portal.org/), Chung-Ang University Software Department Academic Research Association
+- Vice President of a club - [ZeroPage](https://zp-portal.org/), Chung-Ang University Software Department Academic Research Association
 
 ### Interest
 - international experience (due to study abroad in student exchange program, 2023-1)
