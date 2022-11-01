@@ -6,7 +6,7 @@
 
 <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-hyang%2Fhit-counter&count_bg=%238351C2&title_bg=%235D4268&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) &nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-hyang%2Fhit-counter&count_bg=%238351C2&title_bg=%235D4268&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 	
 </div>
 
