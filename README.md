@@ -10,6 +10,7 @@
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-hyang%2Fhit-counter&count_bg=%238351C2&title_bg=%black&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com) &nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23217AB4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
 [![Personal Blog Badge](http://img.shields.io/badge/-Personal%20blog-ff69b4?style=social&logo=4chan&logoColor=black&link=https://www.hyun-hyang.com/)](https://www.hyun-hyang.com/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jylim3060@gmail.com)](mailto:jylim3060@gmail.com)
 	
