@@ -8,16 +8,6 @@
 - OOP(Object-Oriented Programming) : Java, C++
 - Reading & Writing
 
-### Experience
-- Machine learning with python (Seoul,South Korea, Mar.2019~December.2019)
-	- Recommended programs with collaborative filtering
-	- [Implementation of movie recommendation algorithm through item-based collaborative filtering]
-	- [Musical Recommendation Program for Beginners(cold-start problem)]
-	- Web site for musical recommendation program (html,php,javascript)
-- Parallel programming and computational speed analysis using MPI (follow-up activity- 2018 supercomputing youth camp)
-- Text mining and analysis of 'musical (Les Miserables)' number lyrics using R language
-- Expericence of OpenCV (2018 supercomputing youth camp)
-
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-hyang%2Fhit-counter&count_bg=%238351C2&title_bg=%black&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com) &nbsp;
