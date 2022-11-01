@@ -5,6 +5,7 @@
 
 ### Interest
 - international experience (due to study abroad in student exchange program, 2023-)
+- OOP(Object-Oriented Programming) - Java, C++
 - Reading & Writing
 
 <div align=center>
