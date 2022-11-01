@@ -5,8 +5,18 @@
 
 ### Interest
 - international experience (due to study abroad in student exchange program, 2023-)
-- OOP(Object-Oriented Programming) - Java, C++
+- OOP(Object-Oriented Programming) : Java, C++
 - Reading & Writing
+
+### Experience
+- Machine learning with python (Seoul,South Korea, Mar.2019~December.2019)
+	- Recommended programs with collaborative filtering
+	- <Implementation of movie recommendation algorithm through item-based collaborative filtering>
+	- <Musical Recommendation Program for Beginners(cold-start problem)>
+	- Web site for musical recommendation program (html,php,javascript)
+- Parallel programming and computational speed analysis using MPI (follow-up activity- 2018 supercomputing youth camp)
+- Text mining and analysis of 'musical (Les Miserables)' number lyrics using R language
+- Expericence of OpenCV (2018 supercomputing youth camp)
 
 <div align=center>
 	
