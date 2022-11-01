@@ -6,7 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-hyang%2Fhit-counter&count_bg=%238351C2&title_bg=%235D4268&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
- [![Personal Blog Badge](http://img.shields.io/badge/-Blog%20checkout!-?style=social&logo=appveyor&link=https://www.hyun-hyang.com/)](https://www.hyun-hyang.com/)
+ [![Personal Blog Badge](http://img.shields.io/badge/-?Blog-d14836?style=flat-square&logo=4chan&logoColor=white&link=https://www.hyun-hyang.com/)](https://www.hyun-hyang.com/)
 
 <!--
 **hyun-hyang/hyun-hyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
