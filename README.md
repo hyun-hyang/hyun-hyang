@@ -2,9 +2,10 @@
 ### Student
 - studying at Chungang University, Bachelor of Computer Science and Engineering (Seoul,South Korea, Mar.2021~Present)
 - Vice President of a club - [ZeroPage](https://zp-portal.org/), Chung-Ang University Software Department Academic Research Association
+- international experience (studying abroad in student exchange program, in Tennessee Tech University (USA), 2023.01~2023.05)
 
 ### Interest
-- international experience (due to study abroad in student exchange program, 2023-)
+
 - OOP(Object-Oriented Programming) : Java, C++
 - Reading & Writing
 
